@@ -1,0 +1,10 @@
+package com.example.firstboot;
+
+public class FirstBootName {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+     System.out.print("hello world");
+	}
+
+}
